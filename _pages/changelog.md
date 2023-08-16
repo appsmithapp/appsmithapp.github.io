@@ -98,7 +98,7 @@ All disputes arising from the usage of the App, shall be governed by and constru
 
 In order to use the App, you are required to have a compatible mobile phone or tablet, and internet access. 
 
-The App is available for downloading and installing on handheld compatible mobile devices running Apple iOS Operating System 14.0 or later.
+The App is available for downloading and installing on handheld compatible mobile devices running Apple iOS Operating System 16.0 or later.
 
 We do not warrant that the App will be compatible with all hardware and software which you may use.
 
@@ -118,7 +118,7 @@ You can discontinue using our Services at any time by choosing the relevant opti
 
 The App is provided on a free basis.
 
-However, certain functions and/or features of the App (“Premium options”) may be available on the basis of subscription. The full list of Premium options and pricing are provided on the App’s page. You may have an opportunity to try Premium options during the free trial period as provided on the sighup screen. After the free trial period expires an auto-renewing subscription period will start on a regular basis. Please mind that you will be charged automatically unless you cancel your subscription 24 hours before the end of the free trial period. When you cancel your subscription you will still have access to basic features of the App.
+However, certain functions and/or features of the App (“Premium") may be available on the basis of subscription. The full list of Premium options and pricing are provided on the App’s page. You may have an opportunity to try Premium options during the free trial period as provided on the signup screen. After the free trial period expires an auto-renewing subscription period will start on a regular basis. Please mind that you will be charged automatically unless you cancel your subscription 24 hours before the end of the free trial period. When you cancel your subscription you will still have access to basic features of the App.
 
 You can choose different subscription options. Prices for different subscription options are indicated in the Information section on the App’s page. Prices are in U.S. dollars and may vary in countries other than the U.S. You’ll have all necessary information about your subscription plan and duration of the free trial period on the signup screen before the purchase.
 
