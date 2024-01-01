@@ -4,7 +4,7 @@ title: Terms of Use
 include_in_header: false
 ---
 **Last updated** 
-August 15 2023
+January 1 2024
 
 # Terms of Use
 
@@ -12,7 +12,7 @@ August 15 2023
 
 # I. INTRODUCTION
 
-These Terms of Use and End User License Agreement (collectively, the “Agreement”) together with all the documents referred to in it constitute a legally binding agreement made between you as a natural person (“you”, “your” or “user”) and Jack Minehan (“we,” “us” or “our”), concerning your access to and use of “Appsmith“ software application for mobile devices (the “App”). The App’s title may vary in countries other than the U.S. and is subject to change without specific notice.
+These Terms of Use and End User License Agreement (collectively, the “Agreement”) together with all the documents referred to in it constitute a legally binding agreement made between you as a natural person (“you”, “your” or “user”) and Jack Minehan (“we,” “us” or “our”), concerning your access to and use of “Iconic“ software application for mobile devices (the “App”). The App’s title may vary in countries other than the U.S. and is subject to change without specific notice.
 
 All the documents that relate to the App are hereby expressly incorporated herein by reference.
 
